@@ -1,0 +1,17 @@
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe.config
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\bin\Debug\SpaceShip.exe
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\bin\Debug\SpaceShip.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csprojResolveAssemblyReference.cache
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Form1.resources
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Properties.Resources.resources
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.GenerateResource.Cache
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.exe
+c:\users\yuval\documents\visual studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceShip.pdb
+C:\Users\Yuval\Documents\Visual Studio 2015\Projects\SpaceShip\SpaceShip\bin\Debug\Space Invaders.exe.config
+C:\Users\Yuval\Documents\Visual Studio 2015\Projects\SpaceShip\SpaceShip\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Yuval\Documents\Visual Studio 2015\Projects\SpaceShip\SpaceShip\obj\Debug\SpaceInvaders.Properties.Resources.resources
+G:\התוכנות שלי\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csprojAssemblyReference.cache
+G:\התוכנות שלי\SpaceShip\SpaceShip\obj\Debug\SpaceShip.Form1.resources
+G:\התוכנות שלי\SpaceShip\SpaceShip\obj\Debug\SpaceInvaders.Properties.Resources.resources
+G:\התוכנות שלי\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.GenerateResource.cache
+G:\התוכנות שלי\SpaceShip\SpaceShip\obj\Debug\SpaceShip.csproj.CoreCompileInputs.cache
